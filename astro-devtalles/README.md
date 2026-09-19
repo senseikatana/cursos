@@ -59,24 +59,6 @@ Cuando se construya el sitio Astro:
 4. Implementar layouts y componentes
 5. Configurar soporte para contenido en español
 
-## Progreso del Curso
-
-**Astro: El framework para sitios web orientados al contenido** — DevTalles
-
-- [ ] Sección 1: Introducción
-- [ ] Sección 2: Introducción a Astro
-- [ ] Sección 3: Rutas dinámicas y paginación estática
-- [ ] Sección 4: Añadir dinamismo a nuestro sitio estático
-- [ ] Sección 5: Colecciones e imágenes
-- [ ] Sección 6: Relaciones de colecciones
-- [ ] Sección 7: Astro Themes
-- [ ] Sección 8: RSS Feed
-- [ ] Sección 9: Server Side Rendering y Endpoints
-- [ ] Sección 10: Astro DB
-- [ ] Sección 11: Server Actions - Funciones de Blog - Likes Counter
-- [ ] Sección 12: Autenticación y protección de rutas
-- [ ] Sección 13: Autenticación y autorización - Auth.js
-
 ## Licencia
 
 Este proyecto está licenciado bajo la GNU Affero General Public License v3.0 — ver el archivo [LICENSE](LICENSE) para detalles.
