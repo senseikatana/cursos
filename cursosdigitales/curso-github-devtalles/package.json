@@ -1,0 +1,27 @@
+{
+	"name": "git-github-svc-zero",
+	"version": "1.0.0",
+	"description": "Proyecto git-github-svc-zero",
+	"type": "module",
+	"scripts": {
+		"dev": "pnpm run dev",
+		"build": "pnpm run build",
+		"format": "pnpx @biomejs/biome format --write --fix .",
+        "lint": "pnpx @biomejs/biome lint --write --fix .",
+        "check": "pnpx @biomejs/biome check --fix ."
+	},
+	"author": "Sergio Jurado",
+	"license": "MIT",
+	"module": "index.ts",
+	"devDependencies": {
+	},
+	"peerDependencies": {
+		"typescript": "^7"
+	},
+	"dependencies": {
+		"@biomejs/biome": "^2.5.10",
+		"eslint": "^10.9.0",
+		"eslint-prettier": "^0.0.0-empty",
+		"prettier": "^3.9.6"
+	}
+}

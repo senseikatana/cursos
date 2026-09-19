@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "email": "admin@coffeeshop.com",
+      "password": "Admin123!",
+      "displayName": "Admin Coffee"
+    },
+    {
+      "email": "barista@coffeeshop.com",
+      "password": "Barista123!",
+      "displayName": "Barista User"
+    },
+    {
+      "email": "customer1@email.com",
+      "password": "Customer123!",
+      "displayName": "Customer One"
+    },
+    {
+      "email": "customer2@email.com",
+      "password": "Customer123!",
+      "displayName": "Customer Two"
+    },
+    {
+      "email": "manager@coffeeshop.com",
+      "password": "Manager123!",
+      "displayName": "Store Manager"
+    }
+  ]
+}
